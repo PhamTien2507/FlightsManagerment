@@ -1,0 +1,11 @@
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\bin\Debug\Chuyen_Bay.exe.config
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\bin\Debug\Chuyen_Bay.exe
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\bin\Debug\Chuyen_Bay.pdb
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.csproj.AssemblyReference.cache
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.Properties.Resources.resources
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.csproj.GenerateResource.cache
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.csproj.CoreCompileInputs.cache
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.exe
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.pdb
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.FormDangNhap.resources
+E:\Nam_2\WinForm\FlightsManagerment\Chuyen_Bay\obj\Debug\Chuyen_Bay.FormChuongTrinh.resources
